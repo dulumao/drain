@@ -3,13 +3,13 @@
     "dotenv": "^10.0.0",
     "evm": "^0.2.0",
     "file-system": "^2.2.2",
-    "hardhat": "^2.6.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@types/lodash": "^4.14.172",
     "@types/node": "^16.4.13",
-    "ethers": "^5.0.0"
+    "ethers": "^5.0.0",
+    "hardhat": "^2.6.0"
   }
 }
