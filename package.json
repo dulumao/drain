@@ -9,7 +9,6 @@
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@types/lodash": "^4.14.172",
     "@types/node": "^16.4.13",
-    "ethers": "^5.0.0",
-    "hardhat": "^2.6.0"
+    "ethers": "^5.0.0"
   }
 }
